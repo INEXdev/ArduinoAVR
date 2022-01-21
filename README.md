@@ -1,5 +1,5 @@
 # ArduinoAVR
-INEX Arduino AVR core addon
+INEX Arduino AVR core addon ( Not release, during development still have ERROR!)
 
 Preference -> JSON add board manager
 
