@@ -6,7 +6,7 @@ Preference -> JSON add board manager
 
 https://raw.githubusercontent.com/INEXdev/ArduinoAVR/main/package_inex_avr_index.json
 
-Note for i-Duino R3ฺฺB
+Note for i-Duino R3B
 ---------------------
 After install INEX AVR Board manager , user need to download "iom328pb.h" (above) and copy to Arduino package location,
 
