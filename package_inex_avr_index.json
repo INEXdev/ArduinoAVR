@@ -30,7 +30,7 @@
             {"name": "POP-XT"},
             {"name": "POP-168 or RXB-168 (POP-BOT)"},
             {"name": "IPST-SE"},
-            {"name": "Arduino Uno"},
+            {"name": "Arduino Uno"}
           ],
           "toolsDependencies": [
             {
@@ -90,7 +90,7 @@
             }
           ]
         }
-      ],
+      ]
     }
   ]
 }
