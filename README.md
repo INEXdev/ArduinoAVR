@@ -1,6 +1,8 @@
 # INEX Arduino AVR core addon for INEX's AVR products
 
-INEX Arduino AVR core addon (work on 1.8.x and new 2.0 IDE)
+INEX Arduino AVR core addon  
+work on Arduino IDE 1.8.x https://www.arduino.cc/en/software
+for 64bit Windows user can try new Arduino IDE 2.0 RC
 (In development, testing, If any error please inform me at dev[at]inex.co.th)  
 
 # Board support
@@ -42,3 +44,4 @@ or download https://github.com/INEXdev/ArduinoAVR/raw/main/iom328pb.exe and runn
 
 [for MacOSX]  
 ... (will be add User Library location Later)  
+
