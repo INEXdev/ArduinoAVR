@@ -34,9 +34,9 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "arduino",
+              "packager": "inex",
               "name": "avr-gcc",
-              "version": "7.3.0-atmel3.6.1-arduino7i"
+              "version": "7.3.0-atmel3.6.1-arduino7"
             }
           ]
         }
@@ -44,7 +44,7 @@
       "tools": [
         {
           "name": "avr-gcc",
-          "version": "7.3.0-atmel3.6.1-arduino7i",
+          "version": "7.3.0-atmel3.6.1-arduino7",
           "systems": [
             {
               "size": "33655495",
