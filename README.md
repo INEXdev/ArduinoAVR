@@ -1,5 +1,8 @@
 # ArduinoAVR
-INEX Arduino AVR core addon ( Not release, during development still have ERROR!)
+INEX Arduino AVR core addon
+(Not release, during development still have ERROR!)
+
+i-Duino R3b still problem on SPI/Wire library...
 
 Preference -> JSON add board manager
 
