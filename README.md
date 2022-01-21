@@ -1,7 +1,8 @@
 # INEX Arduino AVR core addon for INEX's AVR products
 
-INEX Arduino AVR core addon  
+INEX Arduino 1.8.x AVR core addon  
 (Not release, during development still tested!)  
+(Arduino 2.0 not support yet!)
 
 # Board support  
 ATX-2  
