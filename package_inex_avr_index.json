@@ -19,7 +19,7 @@
           },
           "url": "http://www.inex.co.th/store/arduino_avr_addon/cores/avr-1.8.4.tar.bz2",
           "archiveFileName": "avr-1.8.4.tar.bz2",
-          "checksum": "SHA-256:ac54d0dbee24dcc7fa4a9abec035dfa37dbf7aed6827066a511a988e2830973d",
+          "checksum": "SHA-256:171abf26e688d4f0f1952858d5be458b82c2cc7068b9a4e8dee63a5b725af247",
           "size": "7781506",
           "boards": [
             {"name": "ATX-2"},
