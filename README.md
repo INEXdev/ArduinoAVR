@@ -3,7 +3,7 @@
 INEX Arduino AVR core addon (work on 1.8.x and new 2.0 IDE)
 (In development, testing, If any error please inform me at dev[at]inex.co.th)  
 
-# Board support  
+# Board support
 ATX-2  
 POP-X2  
 POP-7  
@@ -13,6 +13,11 @@ POP-XT
 POP-168 (RBX-168 robot)  
 IPST-SE  
 Uno R3 (atmega328)  
+
+# USB Driver
+for ATX-2, POP-X2, POP-7 and IPST-SE using FTDI chip get driver from https://ftdichip.com/drivers/vcp-drivers  
+for i-Duino R3B, Uno R3 using built-in Arduino Uno driver  
+for Unicon board, POP-XT using built-in Arduino Leonardo driver
 
 # Instruction
 (Remark: Fast internet connection and large files transfer required for this procedure)  
