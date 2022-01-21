@@ -1,4 +1,5 @@
-# ArduinoAVR
+# INEX Arduino AVR core addon for INEX's AVR products
+
 INEX Arduino AVR core addon
 (Not release, during development still tested!)
 
