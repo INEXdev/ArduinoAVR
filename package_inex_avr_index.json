@@ -19,8 +19,8 @@
           },
           "url": "http://www.inex.co.th/store/arduino_avr_addon/cores/avr-1.8.4.tar.bz2",
           "archiveFileName": "avr-1.8.4.tar.bz2",
-          "checksum": "SHA-256:171abf26e688d4f0f1952858d5be458b82c2cc7068b9a4e8dee63a5b725af247",
-          "size": "7781408",
+          "checksum": "SHA-256:8b86ac75d166443a38a0137e91040f308b855c93f8fc38d6d7cd6ddc20c47b2e",
+          "size": "15954379",
           "boards": [
             {"name": "ATX-2"},
             {"name": "POP-X2"},
@@ -52,48 +52,48 @@
           "version": "7.3.0-atmel3.6.1-arduino7",
           "systems": [
             {
-              "size": "33655495",
-              "checksum": "SHA-256:ebeccbfcde40ed8f94f6934f102ecaf8b85a1f2088d6d2c052c59d3e61ad5eef",
+              "size": "34683056",
+              "checksum": "SHA-256:3903553d035da59e33cff9941b857c3cb379cb0638105dfdf69c97f0acc8e7b5",
               "host": "arm-linux-gnueabihf",
               "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino7-arm-linux-gnueabihf.tar.bz2",
-              "url": "http://www.inex.co.th/store/arduino_avr_addon/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-arm-linux-gnueabihf.tar.bz2"
+              "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-arm-linux-gnueabihf.tar.bz2"
             },
             {
-              "size": "37162987",
-              "checksum": "SHA-256:d80f7e4b1ce836801e391deaccfc65ad326e51c58d7c7579af9e3235ceabd9e0",
+              "size": "38045723",
+              "checksum": "SHA-256:03d322b9df6da17289e9e7c6233c34a8535d9c645c19efc772ba19e56914f339",
               "host": "aarch64-linux-gnu",
               "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino7-aarch64-pc-linux-gnu.tar.bz2",
-              "url": "http://www.inex.co.th/store/arduino_avr_addon/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-aarch64-pc-linux-gnu.tar.bz2"
+              "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-aarch64-pc-linux-gnu.tar.bz2"
             },
             {
-              "size": "36769688",
+              "size": "36684546",
               "checksum": "SHA-256:f6ed2346953fcf88df223469088633eb86de997fa27ece117fd1ef170d69c1f8",
               "host": "x86_64-apple-darwin14",
               "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-apple-darwin14.tar.bz2",
-              "url": "http://www.inex.co.th/store/arduino_avr_addon/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-apple-darwin14.tar.bz2"
+              "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-apple-darwin14.tar.bz2"
             },
             {
-              "size": "52519460",
-              "checksum": "SHA-256:7092fb0fb56c50d692a8581376e0f7789a098356486438c205829cb154223a47",
+              "size": "52519412",
+              "checksum": "SHA-256:a54f64755fff4cb792a1495e5defdd789902a2a3503982e81b898299cf39800e",
               "host": "i686-mingw32",
               "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32.zip",
-              "url": "http://www.inex.co.th/store/arduino_avr_addon/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32.zip"
+              "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-w64-mingw32.zip"
             },
             {
-              "size": "36372323",
-              "checksum": "SHA-256:7cc7af902c45271ae35c4831e9652009f48ed6d9a879596bbc12f335972d938e",
+              "size": "37176991",
+              "checksum": "SHA-256:954bbffb33545bcdcd473af993da2980bf32e8461ff55a18e0eebc7b2ef69a4c",
               "host": "i686-linux-gnu",
               "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-pc-linux-gnu.tar.bz2",
-              "url": "http://www.inex.co.th/store/arduino_avr_addon/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-pc-linux-gnu.tar.bz2"
+              "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-pc-linux-gnu.tar.bz2"
             },
             {
-              "size": "36846956",
-              "checksum": "SHA-256:3a267e3a1e7230931924d60a8f92df27b4b07ff178f1838ff0985e50d70c690c",
+              "size": "37630618",
+              "checksum": "SHA-256:bd8c37f6952a2130ac9ee32c53f6a660feb79bee8353c8e289eb60fdcefed91e",
               "host": "x86_64-linux-gnu",
               "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-pc-linux-gnu.tar.bz2",
-              "url": "http://www.inex.co.th/store/arduino_avr_addon/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-pc-linux-gnu.tar.bz2"
+              "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-pc-linux-gnu.tar.bz2"
             }
-          ]
+		  ]
         },
         {
           "name": "avrdude",
