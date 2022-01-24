@@ -1,6 +1,7 @@
 # INEX Arduino AVR core addon for INEX's AVR products
 
-Last update : 24 Jan 2022
+Last update :
+24 Jan 2022 : (no need to patch iom328pb.h anymore!)  
 
 INEX Arduino AVR core addon  
 work on Arduino IDE 1.8.x https://www.arduino.cc/en/software  
