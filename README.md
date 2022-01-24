@@ -1,5 +1,7 @@
 # INEX Arduino AVR core addon for INEX's AVR products
 
+Last update : 24 Jan 2022
+
 INEX Arduino AVR core addon  
 work on Arduino IDE 1.8.x https://www.arduino.cc/en/software
 for 64bit Windows user can try new Arduino IDE 2.0 RC
@@ -33,15 +35,3 @@ wait for Ardduino check addition URL, then scroll down and looking for "INEX AVR
 sitting back and wait for get files from internet and Installing...  
 
 If all Okay, you will get all needed file for working with INEX AVR core products.. Have Fun..  
-
-# Note for i-Duino R3B
-After install INEX AVR Board manager , user need to download patched file "iom328pb.h" (above) and copy to Arduino package location,  
-
-[for PC Windows]  
-%LocalAppData%\Arduino15\packages\arduino\tools\avr-gcc\7.3.0-atmel3.6.1-arduino7\avr\include\avr\  
-
-or download https://github.com/INEXdev/ArduinoAVR/raw/main/iom328pb.exe and running patch after Install Board Manager.  
-
-[for MacOSX]  
-... (will be add User Library location Later)  
-
