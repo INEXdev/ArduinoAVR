@@ -3,7 +3,7 @@
 Last update : 24 Jan 2022
 
 INEX Arduino AVR core addon  
-work on Arduino IDE 1.8.x https://www.arduino.cc/en/software
+work on Arduino IDE 1.8.x https://www.arduino.cc/en/software  
 for 64bit Windows user can try new Arduino IDE 2.0 RC
 (In development, testing, If any error please inform me at dev[at]inex.co.th)  
 
