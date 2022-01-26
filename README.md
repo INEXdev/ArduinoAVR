@@ -32,7 +32,7 @@ look at the bottom > Addition Boards Manager URL then copy below address on fiel
 https://raw.githubusercontent.com/INEXdev/ArduinoAVR/main/package_inex_avr_index.json  
 
 and IMPORTANT! "REMOVE Checkbox "verify after upload" avoid bootloader error..
-![alt text](https://raw.githubusercontent.com/INEXdev/ArduinoAVR/main/EditPreference.png.png)
+![alt text](https://github.com/INEXdev/ArduinoAVR/raw/main/EditPreference.png)
 
 click OK, then goto menu Tools -> Board -> Boards Manager  
 wait for Arduino check addition URL, then scroll down and looking for "INEX AVR" then click "Install"  
