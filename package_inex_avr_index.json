@@ -19,8 +19,8 @@
           },
           "url": "http://www.inex.co.th/store/arduino_avr_addon/avr-1.8.4.tar.bz2",
           "archiveFileName": "avr-1.8.4.tar.bz2",
-          "checksum": "SHA-256:8b86ac75d166443a38a0137e91040f308b855c93f8fc38d6d7cd6ddc20c47b2e",
-          "size": "15954379",
+          "checksum": "SHA-256:fc9594b4b0a7134e05ee88076d362530863317681f16ad42362f543cb8a96f50",
+          "size": "16056166",
           "boards": [
             {"name": "ATX-2"},
             {"name": "POP-X2"},
