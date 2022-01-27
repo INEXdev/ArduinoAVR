@@ -1,6 +1,8 @@
 # INEX Arduino AVR core addon for INEX's AVR products
 
 Last update :
+27 Jan 2022 : Add & Fix examples file inside package  
+            : move avr-1.8.4.tar.bz2 store location.
 24 Jan 2022 : (no need to patch iom328pb.h anymore!)  
 
 INEX Arduino AVR core addon  
