@@ -12,15 +12,15 @@
         {
           "name": "INEX AVR",
           "architecture": "avr",
-          "version": "1.8.4",
+          "version": "1.8.5",
           "category": "Contributed",
           "help": {
             "online": "http://www.inex.co.th"
           },
-          "url": "http://www.inex.co.th/store/arduino_avr_addon/avr-1.8.4.tar.bz2",
+          "url": "http://www.inex.co.th/store/arduino_avr_addon/avr-1.8.5.tar.bz2",
           "archiveFileName": "avr-1.8.4.tar.bz2",
-          "checksum": "SHA-256:6de146efd31e87e6bd815d492af60736694d8aa4749946545c969424024e8d3d",
-          "size": "16080993",
+          "checksum": "SHA-256:e692aff629cd243efbf79a5764b10840625b71bcaa31ab8dc8cfdbcfe6135e5b",
+          "size": "17020528",
           "boards": [
             {"name": "ATX-2"},
             {"name": "POP-X2"},
