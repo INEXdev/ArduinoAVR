@@ -18,7 +18,7 @@
             "online": "http://www.inex.co.th"
           },
           "url": "http://www.inex.co.th/store/arduino_avr_addon/avr-1.8.5.tar.bz2",
-          "archiveFileName": "avr-1.8.4.tar.bz2",
+          "archiveFileName": "avr-1.8.5.tar.bz2",
           "checksum": "SHA-256:e692aff629cd243efbf79a5764b10840625b71bcaa31ab8dc8cfdbcfe6135e5b",
           "size": "17020528",
           "boards": [
