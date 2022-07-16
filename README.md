@@ -1,6 +1,10 @@
 # INEX Arduino AVR core addon for INEX's AVR products
 
 Last update :
+
+17 Jul 2022  
+ : update avr-1.8.5.tar.bz2
+
 27 Jan 2022  
  : Add & Fix examples file inside package  
  : move avr-1.8.4.tar.bz2 store location.  
