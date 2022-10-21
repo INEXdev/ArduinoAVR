@@ -38,7 +38,7 @@ for Unicon board, POP-XT using built-in Arduino Leonardo driver
 Open Arduino, menu File -> Preferences  
 look at the bottom > Addition Boards Manager URL then copy below address on field  
 
-https://raw.githubusercontent.com/INEXdev/ArduinoAVR/main/package_inex_avr_index.json  
+https://github.com/INEXdev/ArduinoAVR/raw/main/package_inex_avr_index.json  
 
 and IMPORTANT! "REMOVE Checkbox "Verify code after upload"
 and also disble "Check for updates on startup" keep working on this version.
