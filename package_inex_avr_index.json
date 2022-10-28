@@ -1,26 +1,23 @@
 {
   "packages": [
     {
-      "name": "INEX AVR",
-      "maintainer": "INEX AVR core boards",
+      "name": "INEX_AVR",
       "websiteURL": "http://www.inex.co.th",
+      "maintainer": "INEX",
       "email": "dev@inex.co.th",
       "help": {
         "online": "http://www.inex.co.th"
       },
       "platforms": [
         {
-          "name": "INEX AVR",
+          "name": "INEX_AVR",
           "architecture": "avr",
           "version": "1.8.5",
           "category": "Contributed",
-          "help": {
-            "online": "http://www.inex.co.th"
-          },
-          "url": "http://www.inex.co.th/store/arduino_avr_addon/avr-1.8.5.tar.bz2",
-          "archiveFileName": "avr-1.8.5.tar.bz2",
-          "checksum": "SHA-256:e692aff629cd243efbf79a5764b10840625b71bcaa31ab8dc8cfdbcfe6135e5b",
-          "size": "17020528",
+          "url": "http://www.inex.co.th/store/arduino_avr_addon/INEXavr-1.8.5.tar.bz2",
+          "archiveFileName": "INEXavr-1.8.5.tar.bz2",
+          "checksum": "SHA-256:67fd2adadd87b29134d593b4a722e081dcca814d0b1135123da33832a4cd02e0",
+          "size": "17027956",
           "boards": [
             {"name": "ATX-2"},
             {"name": "POP-X2"},
@@ -34,12 +31,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "arduino",
+              "packager": "INEX_AVR",
               "name": "avr-gcc",
               "version": "7.3.0-atmel3.6.1-arduino7"
             },
             {
-              "packager": "arduino",
+              "packager": "INEX_AVR",
               "name": "avrdude",
               "version": "6.3.0-arduino17"
             }
