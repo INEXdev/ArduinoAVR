@@ -4,11 +4,14 @@ Last update :
 
 23 Oct 2022
  : Re-package INEXavr-1.8.5.tar.bz2 for Arduino 2.0.1 support
+ 
  ** Note for previous user who install old version
+ 
     You need to Uninstall older 1.8.5 and remove JSON address from Arduino->Preferences first,
     then Close program and Open Arduino and replace new JSON address and OpenBoard Manager again
     -> You must see [INEX_AVR by INEX] instead of old [INEX AVR by INEX AVR code boards].
     Install again, and it will be OK.
+    
 
 17 Jul 2022  
  : update avr-1.8.5.tar.bz2
