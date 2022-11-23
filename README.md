@@ -54,7 +54,7 @@ look at the bottom > Addition Boards Manager URL then copy below address on fiel
 https://github.com/INEXdev/ArduinoAVR/raw/main/package_inex_avr_index.json  
 
 and IMPORTANT! "REMOVE Checkbox "Verify code after upload"
-and also disble "Check for updates on startup" keep working on this version.
+and also disable "Check for updates on startup" keep working on this version.
 ![alt text](https://github.com/INEXdev/ArduinoAVR/raw/main/EditPreference.png)
 
 click OK, then goto menu Tools -> Board -> Boards Manager  
