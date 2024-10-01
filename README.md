@@ -12,10 +12,10 @@ Last update :
     You need to Uninstall older 1.8.5 and remove JSON address from Arduino->Preferences first,
     then Close program and Open Arduino then replace new JSON address and OpenBoard Manager again
     
-    -> You must see [INEX_AVR by INEX] instead of old [INEX AVR by INEX AVR core boards].
+    -> You will see [INEX_AVR by INEX] instead of old [INEX AVR by INEX AVR core boards].
     
-    Install again, and it will be OK.
-    
+    after installed again, it will be OK.
+
 
 17 Jul 2022  
  : update avr-1.8.5.tar.bz2
