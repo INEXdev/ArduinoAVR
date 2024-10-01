@@ -2,7 +2,7 @@
 
 Last update :
 
-1 Oct 2024 : Temporary workaround, change packed file to alternate host (Issue : Host response Forbidden 403).
+1 Oct 2024 : Fix issue : Host response Forbidden 403, all OK.
 
 23 Oct 2022
  : Re-package INEXavr-1.8.5.tar.bz2 for Arduino 2.0.1 support
